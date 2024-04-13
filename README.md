@@ -62,3 +62,5 @@ Contributions are welcome! Please follow these steps:
 ![Screenshot (3)](https://github.com/taviyalalji/newsapp/assets/116023159/1408a4cf-f17b-432d-bfec-74e0f322b121)
 
 ![Screenshot (4)](https://github.com/taviyalalji/newsapp/assets/116023159/5296d609-411e-4d42-8386-6ce6e19326f5)
+
+![Screenshot (7)](https://github.com/taviyalalji/newsapp/assets/116023159/54b02ff5-8da9-43e4-8603-5a3dd115aea3)
