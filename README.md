@@ -55,3 +55,5 @@ Contributions are welcome! Please follow these steps:
 ## `Credits`
 
 - News API: https://newsapi.org/
+
+![Screenshot (3)](https://github.com/taviyalalji/newsapp/assets/116023159/1408a4cf-f17b-432d-bfec-74e0f322b121)
