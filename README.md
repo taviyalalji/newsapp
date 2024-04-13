@@ -1,20 +1,21 @@
-# Getting Started with Create React App
+# News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React.js application for browsing news articles.
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+News App is a web application that allows users to browse and read news articles from various sources. It provides a user-friendly interface for viewing the latest headlines and reading full articles.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- View top headlines from various news sources
+- Read full articles within the app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React.js
+- Axios for fetching data from the News API
+- Bootstrap for styling
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
