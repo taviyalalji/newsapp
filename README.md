@@ -14,7 +14,7 @@ News App is a web application that allows users to browse and read news articles
 ## Technologies Used
 
 - React.js
-- Axios for fetching data from the News API
+- fetching data from the News API
 - Bootstrap for styling
 
 Launches the test runner in the interactive watch mode.\
